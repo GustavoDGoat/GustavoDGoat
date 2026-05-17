@@ -1,50 +1,47 @@
-# Gustavo.DGoat
+# Hi there, I'm Gustavo 👋 
 
-**Founder of [Univille](https://univilleafrica.com) • ML Engineer • Software Engineer**
+Founder & Lead Developer at **Wyde Industries** | Rust Enthusiast | Professional Womanizer | 
 
-Building at the intersection of Computer Vision and Digital Communities. 
-I have a peculiar habit: I can't resist naming my software after women.
+I am chasing my dream of Wyde industries a company that builds health care related solutions i do know that Wyde industries will get to a billion dollar evaluation. I don't just write code; I build systems designed to scale, impact lives, and take Wyde Industries to a billion-dollar valuation.
 
-[YouTube](https://www.youtube.com/@Gustavo.DGoatt) / [Twitter (X)](https://x.com/Gustavo_DGoat) / [Univille Africa](https://univilleafrica.com)
+Most of the time i work on Wyde industries products and sometimes i spend time with the ladies they really love me.
 
----
-
-## Current Projects
-
-### The Ladies (Active Software)
-
-* **Sona** — A "vision-as-a-service" AI agent helping the blind navigate the physical world using Computer Vision.
-* **Grace** — An expansive open-world sandbox built to push the limits of [Game Engine].
-* **Univille** — The premier digital ecosystem for African creators and students.
-
-### ML & Experiments
-
-* **[Down Syndrome Detection](https://github.com/GustavoDGoat/down-syndrome-detection)** — High-precision ML model utilizing facial landmarks to assist in early-stage Down Syndrome screening.
 
 ---
 
-## Tech Stack
+### 🚀 What I'm Architecting at Wyde Industries
 
-### The Brain (AI & Logic)
-
-* **Python** (PyTorch / TensorFlow / OpenCV)
-* **Machine Learning** (Computer Vision, NLP)
-* **TypeScript / Node.js**
-
-### The Body (Mobile & Web)
-
-* **React Native** (Cross-platform mobile)
-* **React / Next.js**
-* **JavaScript (ES6+)**
+Wyde Industries is focused on revolutionizing the healthcare space through cutting-edge software and intelligent systems. Most of our core products rely heavily on:
+* 🦀 **Rust** — My favorite language. Because when you're building a billion-dollar empire, why compromise on speed or safety? 
+* 🧠 **Machine Learning** — Infusing deep learning and predictive intelligence into real-world medical applications.
+* 🐧 **Advanced Linux & Git workflows** — Keeping the ecosystem bulletproof and efficient.
 
 ---
 
-## My Philosophy
+### 🛠️ Tech Stack & Arsenal
 
-> "My life is a bizarre adventure and i am happy to live it daily ."
+* **Core Strength:** Rust, Linux, Git, and undeniable rizz.
+* **AI & Machine Learning:** Deep Learning, Medical Imagery Analysis, Predictive Modeling
+* **Environment:** Arch Linux, Neovim, Terminal-centric workflow
 
 ---
 
-### GitHub Stats
+### 🔮 The Billion-Dollar Vision (Featured Projects)
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent)
+* **Horus** — A deep learning-based system designed for predictive helping blind people navigate their daily life.
+* **Univille** — A digital marketplace ecosystem designed for student vendors.
+* **Osiris** — A high-stakes accountability and productivity platform.
+
+---
+
+### 😎 Beyond the Code
+
+* 🦀 Ask me why **Rust** is superior to whatever language you're currently using.
+* 🧠 Talk to me about Linux ricing, Git sorcery, or advanced AI architectures.
+* 🌹 On some occasions, I'm out making sure the tech industry isn't the only place where I'm highly sought after. Believe me, the ladies love a developer who knows how to exit Neovim on the first try.
+
+---
+
+### 📫 Connect with the Founder
+* 💼 Youtube: [https://www.youtube.com/@Gustavo.DGoatt]
+* 🐦 Twitter/X: [https://x.com/Gustavo_DGoat]
