@@ -29,8 +29,7 @@ Wyde Industries is focused on revolutionizing the healthcare space through cutti
 ### 🔮 The Billion-Dollar Vision (Featured Projects)
 
 * **Horus** — A deep learning-based system designed for predictive helping blind people navigate their daily life.
-* **Univille** — A digital marketplace ecosystem designed for student vendors.
-* **Osiris** — A high-stakes accountability and productivity platform.
+* **Univille** — A digital marketplace ecosystem designed for student vendors..
 
 ---
 
