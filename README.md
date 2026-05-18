@@ -9,7 +9,7 @@ Most of the time i work on Wyde industries products and sometimes i spend time w
 
 ---
 
-### 🚀 What I'm Architecting at Wyde Industries
+### 🚀 What I usually work on in wyde industries
 
 Wyde Industries is focused on revolutionizing the healthcare space through cutting-edge software and intelligent systems. Most of our core products rely heavily on:
 * 🦀 **Rust** — My favorite language. Because when you're building a billion-dollar empire, why compromise on speed or safety? 
