@@ -4,7 +4,7 @@ Checkout my [YouTube](https://www.youtube.com/@Gustavo.DGoatt), [Twitter](https:
 
 ### Products
 
-- **[Molars](https://molars.xyx)** — The only AI chat that doesn't suck
+- **[Molars](https://molars.xyx)** — CRM for Dentists
 
 ### My stack
 
