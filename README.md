@@ -9,7 +9,7 @@ Checkout my [YouTube](https://www.youtube.com/@Gustavo.DGoatt), [Twitter](https:
 ### My stack
 
 
-- **Rust 
+- **Rust** 
 
 ### Everything Else
 
