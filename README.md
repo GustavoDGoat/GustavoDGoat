@@ -3,9 +3,8 @@ Founder of  Wyde Industries. Popular on [YouTube](https://www.youtube.com/@Gusta
 Checkout my [YouTube](https://www.youtube.com/@Gustavo.DGoatt), [Twitter](https://x.com/Gustavo_DGoat),
 
 ### Products
-
-- **[Molars](https://molars.xyx)** — CRM for Dentists
-- **[UNIVILLe](http://univilleafrica.com)** — Market place for students
+- **[UNIVILLe](https://univilleafrica.com)** — Market place for students
+- 
 
 ### My stack
 
