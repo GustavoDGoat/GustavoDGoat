@@ -1,4 +1,5 @@
-Founder of  Wyde Industries. Popular on [YouTube](https://www.youtube.com/@Gustavo.DGoatt)
+Billionaire Playboy And Not A Philanthropist.
+Popular PlayboyuTubepular [YouTube](https://www.youtube.com/@Gustavo.DGoatt)
 
 Checkout my [YouTube](https://www.youtube.com/@Gustavo.DGoatt), [Twitter](https://x.com/Gustavo_DGoat),
 
