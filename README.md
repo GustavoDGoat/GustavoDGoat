@@ -1,5 +1,7 @@
-Billionaire Playboy And Not A Philanthropist.
-Popular on  [YouTube](https://www.youtube.com/@Gustavo.DGoatt)
+I am a Billionaire Playboy And Not A Philanthropist btw.
+I achieved my dream of building Wyde industries( billion dollar btw).
+The ladies love me btw
+I am also Popular on  [YouTube](https://www.youtube.com/@Gustavo.DGoatt)
 
 Checkout my [YouTube](https://www.youtube.com/@Gustavo.DGoatt), [Twitter](https://x.com/Gustavo_DGoat),
 
