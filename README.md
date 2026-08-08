@@ -17,3 +17,6 @@ Checkout my [YouTube](https://www.youtube.com/@Gustavo.DGoatt), [Twitter](https:
 
 
 - **[DOMA](https://github.com/GustavoDGoat/DOMA)** — a general purpose opencode version for normal ai chat
+- **[Kaku](https://github.com/GustavoDGoat/Kaku)** - a manga uploading site built using rust and typescript
+- **[Moses](https://github.com/GustavoDGoat/Moses)** - its a simple cli tool that splits pdfs into pages range you selected this helps if you have a large pdf that you want to reduce the noise for example
+- **[witb](https://github.com/GustavoDGoat/witb)** - it helps you debug
